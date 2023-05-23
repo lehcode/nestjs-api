@@ -1,3 +1,1 @@
-# GPTSub API
-
-Secure OpenAI key usage
+# NestJS API Starter Boilerplate
